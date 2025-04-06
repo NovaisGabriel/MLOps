@@ -1,4 +1,5 @@
 flask/flask_env/
+mlflow/mlf/venv/
 *.pkl
 *.csv
 *.zip

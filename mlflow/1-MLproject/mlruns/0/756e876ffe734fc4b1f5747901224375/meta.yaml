@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/756e876ffe734fc4b1f5747901224375/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 756e876ffe734fc4b1f5747901224375
+run_name: aged-smelt-334
+run_uuid: 756e876ffe734fc4b1f5747901224375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743951436378
+status: 1
+tags: []
+user_id: Windows 11

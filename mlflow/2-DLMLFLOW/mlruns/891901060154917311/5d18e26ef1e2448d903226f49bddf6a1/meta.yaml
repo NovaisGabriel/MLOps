@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows%2011/Desktop/Projetos/MLOps/mlflow/2-DLMLFLOW/mlruns/891901060154917311/5d18e26ef1e2448d903226f49bddf6a1/artifacts
+end_time: 1743952714107
+entry_point_name: ''
+experiment_id: '891901060154917311'
+lifecycle_stage: active
+run_id: 5d18e26ef1e2448d903226f49bddf6a1
+run_name: clumsy-mouse-859
+run_uuid: 5d18e26ef1e2448d903226f49bddf6a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743952705584
+status: 3
+tags: []
+user_id: Windows 11

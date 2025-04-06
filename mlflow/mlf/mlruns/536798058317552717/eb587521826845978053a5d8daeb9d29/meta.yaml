@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/536798058317552717/eb587521826845978053a5d8daeb9d29/artifacts
+end_time: 1743876403768
+entry_point_name: ''
+experiment_id: '536798058317552717'
+lifecycle_stage: active
+run_id: eb587521826845978053a5d8daeb9d29
+run_name: adaptable-koi-50
+run_uuid: eb587521826845978053a5d8daeb9d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743876403716
+status: 3
+tags: []
+user_id: Windows 11

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Windows%2011/Desktop/Projetos/MLOps/mlflow/2-DLMLFLOW/mlruns/891901060154917311/30cac769c5ed485f80b12b174f79466f/artifacts
+end_time: 1743952738632
+entry_point_name: ''
+experiment_id: '891901060154917311'
+lifecycle_stage: active
+run_id: 30cac769c5ed485f80b12b174f79466f
+run_name: useful-skink-20
+run_uuid: 30cac769c5ed485f80b12b174f79466f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743952696839
+status: 3
+tags: []
+user_id: Windows 11
