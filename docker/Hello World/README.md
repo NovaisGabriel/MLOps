@@ -20,3 +20,8 @@ docker push username/name_of_the_app:latest
 
 # Get docker image form docker hub
 docker pull username/name_of_the_app:latest
+
+# dokcer compose build
+docker images
+docker compose up
+docker compose stop
